@@ -43,7 +43,7 @@
     height: 808px;
 }
 
-/* 2nd dd*/
+/* 2nd steps*/
 .oop {
     display: flex;
     padding-left: 15%;
@@ -58,7 +58,7 @@
     font-size: 40px;
     line-height: 47px;
     padding: 8%;
- 
+
 }
 
 .jg {
@@ -78,4 +78,111 @@
     left: 907px;
     top: 1434px;
     padding: 8%;
+}
+
+/* 3rd steps */
+
+.yy {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.kkk {
+    display: flex;
+    gap: 150px;
+    text-align: center;
+    padding: 10%;
+
+}
+
+.tt {
+    font-weight: 700;
+    font-size: 30px;
+}
+
+.ds {
+    font-weight: 500;
+    font-size: 25px;
+    color: #737272;
+}
+
+.jt {
+    font-weight: 700;
+    font-size: 30px;
+
+}
+
+.jd {
+    font-weight: 500;
+    font-size: 25px;
+    color: #737272;
+}
+
+.st {
+    font-weight: 700;
+    font-size: 30px;
+
+}
+
+.sd {
+    font-size: 25px;
+    line-height: 29px;
+    color: #737272;
+}
+
+.et {
+    font-weight: 700;
+    font-size: 30px;
+}
+
+.ed {
+    font-weight: 500;
+    font-size: 25px;
+    color: #737272;
+}
+
+/* 4th steps */
+
+.ap {
+    margin-right:150px;
+    font-weight: 700;
+    font-size: 40px;
+    padding-left:130px;
+    color: #FFFFFF;
+}
+
+.cn {
+
+    padding-left: 100px;
+    font-weight: 600;
+    font-size: 20px;
+}
+
+.bt {
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 23px;
+    text-align: center;
+    color: #005FAC;
+    background: #FFFFFF;
+    border-radius: 5px;
+    width: 160px;
+    height: 64px;
+    border: 0;
+}
+
+.bk {
+    margin-left: 190px;
+    
+    
+    background-image: url('../images/watch.png');
+    background-repeat: no-repeat;
+    width: 1140px;
+    height: 300px;
+    left: 230px;
+    top: 2221.96px;
+    border-radius: 8px;
+    padding: 20px;
+   
+    
 }
