@@ -144,10 +144,10 @@
 /* 4th steps */
 
 .ap {
-    margin-right:150px;
+    margin-right: 150px;
     font-weight: 700;
     font-size: 40px;
-    padding-left:130px;
+    padding-left: 130px;
     color: #FFFFFF;
 }
 
@@ -173,8 +173,8 @@
 
 .bk {
     margin-left: 190px;
-    
-    
+
+
     background-image: url('../images/watch.png');
     background-repeat: no-repeat;
     width: 1140px;
@@ -183,6 +183,61 @@
     top: 2221.96px;
     border-radius: 8px;
     padding: 20px;
-   
-    
+
+
+}
+
+.ftft {
+    display: flex;
+    background: #151414;
+    width: 1600px;
+    height: 577px;
+    left: 0px;
+    top: 2651.96px;
+    gap: 200px;
+    padding-left: 268px;
+    padding-top: 141px;
+    padding-bottom: 118px;
+    padding-right: 847px;
+
+}
+
+.ee {
+    font-weight: 700;
+    font-size: 45px;
+    color: #F8F8F8;
+}
+
+.pp {
+    font-weight: 400;
+    font-size: 16px;
+    color: #FFFFFF;
+}
+
+.ww {
+    color: #FFFFFF;
+}
+
+.qq {
+    color: #FFFFFF;
+}
+
+.ss {
+    color: #FFFFFF;
+}
+
+.aa {
+    background: #005FAC;
+    border-radius: 8px;
+    width: 170.11px;
+    height: 64px;
+    left: 1046px;
+    top: 2921.96px;
+    color: #FFFFFF;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+}
+.ff{
+    padding-left: 191px;
 }
