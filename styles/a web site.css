@@ -1,0 +1,81 @@
+.title {
+    margin-top: 176px;
+    margin-right: 216px;
+    font-weight: 700;
+    font-size: 65px;
+    text-align: right;
+    line-height: 76px;
+    left: 845px;
+}
+
+.sub-title {
+
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: right;
+    left: 876px;
+    margin-right: 216px;
+}
+
+.button {
+    text-align: right;
+    margin-right: 190px;
+}
+
+.btn {
+    width: 160px;
+    height: 64px;
+    left: 1210px;
+
+    color: #005FAC;
+    background: #FFFFFF;
+    border-radius: 5px;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 23px;
+    border: 0;
+}
+
+.header {
+    background-image: url('../images/banner/banner3.png');
+    width: 1600px;
+    height: 808px;
+}
+
+/* 2nd dd*/
+.oop {
+    display: flex;
+    padding-left: 15%;
+}
+
+.hj {
+    width: 288px;
+    height: 94px;
+    left: 929px;
+    top: 1117px;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    padding: 8%;
+ 
+}
+
+.jg {
+    width: 416px;
+    height: 104px;
+    left: 895px;
+    top: 1263px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    padding: 5%;
+}
+
+.kj {
+    width: 379px;
+    height: 167px;
+    left: 907px;
+    top: 1434px;
+    padding: 8%;
+}
